@@ -9,5 +9,5 @@ import { CardsComponent } from "./cards/cards.component";
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'project';
+  title = 'Fasil';
 }
